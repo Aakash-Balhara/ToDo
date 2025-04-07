@@ -1,0 +1,16 @@
+#sec1{
+    background-color: aqua;
+    height: 200%;
+    width: 50%;
+}
+#sec2{
+    background-color: fuchsia;
+    width: 50%;
+}
+body{
+    display: flex;
+
+}
+#inp {
+    height: 50px;
+}
